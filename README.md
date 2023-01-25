@@ -1,3 +1,12 @@
+# BUG FIXED BY SPOTIFY
+
+# Spotify Mod Device Samsung
+![IMG_20230124_222400_1](https://user-images.githubusercontent.com/115182304/214334875-bc95ac66-814e-40d4-b0e6-468bcc271208.jpg)
+
+https://drive.google.com/drive/folders/1-8F4L_XVreVYlSte7XQ1W9kY8gERKgph
+
+
+
 # Cara penggunaan
 
 Termux - Android (recommended version 0.117)
@@ -23,8 +32,3 @@ Termux - Android (recommended version 0.117)
 1. Jalankan Scrip dan pilih Nomor 3
 2. Tunggu hinggah selesai, jika anda menggunakan termux maka otomatis akan pergi ke browser dan login menggunakan akun yang berhasil dibuat oleh ditools
 3. Bayar - Done.
-
-# Spotify Mod Samsung
-![IMG_20230124_222400_1](https://user-images.githubusercontent.com/115182304/214334875-bc95ac66-814e-40d4-b0e6-468bcc271208.jpg)
-
-link spotify mod samsung : https://drive.google.com/drive/folders/1-8F4L_XVreVYlSte7XQ1W9kY8gERKgph
