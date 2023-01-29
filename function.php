@@ -1,5 +1,6 @@
 <?php
 error_reporting(0);
+
 function curl($param,$headers,$url)
 	{
 		$ch = curl_init();
@@ -38,7 +39,7 @@ function signup($email,$pass)
   },
   "callback_uri": "https://www.spotify.com/signup/challenge?forward_url\u003dhttps%3A%2F%2Fwww.spotify.com%2Faccount%2Foverview%2F\u0026locale\u003did",
   "client_info": {
-    "api_key": "a1e486e2729f46d6bb368d6b2bcda326",
+    "api_key": "bff58e9698f40080ec4f9ad97a2f21e0",
     "app_version": "v2",
     "capabilities": [
       1
