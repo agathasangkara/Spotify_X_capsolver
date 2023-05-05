@@ -1,0 +1,24 @@
+{
+	
+	"Profil" : {
+		"Github" : "https://github.com/agathasangkara",
+		"Facebook" : "https://www.facebook.com/profile.php?id=100086675272346",
+		"Telegram" : "t.me/agathasangkara"
+	},
+	
+	"about" : {
+		"info" : "Spotify Build 5 Mei 2023",
+		"url" : "https://www.spotify.com/id/redirect-in-app/android_premium_promotion/?offerSlug=samsung-global2022-pdp-3m-3m-trial-one-time-code"
+		},
+	
+	"Setting" : {
+		"email_auto" : 1,
+		"repeat" : 1
+		},
+	
+	"Spotify" : {
+		"password" : "Sangkara",
+		"apikey_spotify" : "a2d4b979dc624757b4fb47de483f3505"
+		}
+
+}
