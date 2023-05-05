@@ -1,10 +1,7 @@
-Working 08 Feb 2023
+Working 5 Mei 2023 (Update)
 
 # Spotify Samsung Validation Apk
 ![IMG_20230124_222400_1](https://user-images.githubusercontent.com/115182304/214334875-bc95ac66-814e-40d4-b0e6-468bcc271208.jpg)
-
-here : https://drive.google.com/drive/folders/1-8F4L_XVreVYlSte7XQ1W9kY8gERKgph
-
 
 
 # Cara penggunaan
@@ -16,15 +13,11 @@ Termux - Android (recommended version 0.117)
 3. pkg install php
 4. termux-setup-storage
 5. git clone https://github.com/agathasangkara/SpotifyxSamsung
-6. cd spotifytools
+6. cd SpotifyxSamsung
 7. php index.php
 
 # Preview
-![IMG_20230124_220902_1](https://user-images.githubusercontent.com/115182304/214331697-c6d57f64-5045-4b2d-9fcb-58ff830adaa9.jpg)
-
-1. Mengambil Cookie Browser Chrome(Login)
-2. Mengambil Auth Bearer App
-3. Daftar dan Validate Samsung Galaxy Series
+![3C9B8E85-EEE0-45E6-9651-1B05B56703CB](https://user-images.githubusercontent.com/115182304/236413157-77ee87ab-f5eb-4b28-9c2a-7923d10d7675.jpeg)
 
 # Validate
 ![IMG_20230124_222518_1](https://user-images.githubusercontent.com/115182304/214335191-b7e38295-6bbe-4bdb-a39a-d45442d4758a.jpg)
