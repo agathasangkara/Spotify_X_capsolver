@@ -24,14 +24,15 @@ class UserThread:
         email = f'{nama.replace(" ","")}{domain}'.lower()
         ttl = f"{random.randint(1990, 2002)}-{random.randint(10, 12)}-{random.randint(10, 31)}"
         signup = Spotify().create(ua, nama, email, sandi, ttl, gender)
+        print(signup.text)
         if "login_token" in signup.text:
             print(f" Created : {email}")
             with open('account.txt', 'a') as f:
             	f.write(f'Email : {email} | Sandi : {sandi}\n')
         elif "challenge" in signup.text:
-            sys.exit(" Error while registering, airplane mode")
+            print(" Error while registering, airplane mode")
         else:
-            sys.exit(signup.text)
+            print(signup.text)
 
     def createThread(self):
         try:
