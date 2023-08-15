@@ -44,7 +44,7 @@ class UserThread:
                 if int(amount) > 20:  # jangan diganti biar ga error spam
                     sys.exit(f'\n Sebaiknya jangan gegabah terlalu banyak')
                 else:
-                    print(f"\n Ready Create Spotify Account\n Kata sandi : {sandi}")
+                    print(f"\n Ready Create Spotify Account\n\n Kata sandi : {sandi}\n")
                 threads = []
                 count = 0
                 try:
