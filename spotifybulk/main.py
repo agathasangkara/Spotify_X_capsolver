@@ -24,7 +24,7 @@ class UserThread:
         email = f'{nama.replace(" ","")}{domain}'.lower()
         ttl = f"{random.randint(1990, 2002)}-{random.randint(10, 12)}-{random.randint(10, 31)}"
         signup = Spotify().create(ua, nama, email, sandi, ttl, gender)
-        print(signup.text)
+        # print(signup.text)
         if "login_token" in signup.text:
             print(f" Created : {email}")
             with open('account.txt', 'a') as f:
