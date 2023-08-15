@@ -32,7 +32,7 @@ class UserThread:
         elif "challenge" in signup.text:
             print(" Error while registering, airplane mode")
         else:
-            print(signup.text)
+            None
 
     def createThread(self):
         try:
