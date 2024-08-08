@@ -100,9 +100,6 @@ func main() {
 	}
 	fmt.Println(res.Solution["gRecaptchaResponse"])
 }
-```
-
-        
 type SpotifyAPI struct {
 	Client   *http.Client
 	Proxies  []string
@@ -186,7 +183,7 @@ func main() {
    \_/ \_/ \_/ \_/ \_/ \_/ \_/ 
  ` + "\n")
 
-	password := "chsangkara"
+	password := "Tasik12345"
 	utilsClient := NewSpotifyAPI(nil, password)
 
 	file, _ := os.OpenFile("spotify_acc.txt", os.O_APPEND|os.O_WRONLY|os.O_CREATE, 0644)
@@ -215,8 +212,8 @@ func main() {
 		json.Unmarshal([]byte(create), &createResponse)
 
 		if createResponse.Status == 1 {
-			color.New(color.FgGreen).Println("   > Email : " + username + "@chsangkara.com" + " | " + "Password : " + password + " | CREATE ACCOUNT SUCCESS")
-			fmt.Fprintf(file, "Email : %s@chsangkara.com | Password : %s | CREATE ACCOUNT SUCCESS\n", username, password)
+			color.New(color.FgGreen).Println("   > Email : " + username + "@dudsstore.com" + " | " + "Password : " + password + " | CREATE ACCOUNT SUCCESS")
+			fmt.Fprintf(file, "Email : %s@dudsstore.com | Password : %s | CREATE ACCOUNT SUCCESS\n", username, password)
 			count++
 		} else {
 			color.New(color.FgRed).Println("   > Email : " + username + "@chsangkara.com" + " | " + "Password : " + password + " | CREATE ACCOUNT FAILED")
