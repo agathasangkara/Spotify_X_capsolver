@@ -53,7 +53,7 @@ function uniqueId(){
 }
 
 function randDomain(){
-	$arraymail = array('yahoo.com','yahoo.co.id','gmail.com','outlook.com','yahoo.co.id','icloud.com','hotmail.com');
+	$arraymail = array('dudsstore.com');
 	$datas = array_rand($arraymail, true);
 	return $arraymail[$datas];
 }
