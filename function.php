@@ -53,7 +53,7 @@ function uniqueId(){
 }
 
 function randDomain(){
-	$arraymail = array('dudsstore.com');
+	$arraymail = array('spofam.my.id');
 	$datas = array_rand($arraymail, true);
 	return $arraymail[$datas];
 }
